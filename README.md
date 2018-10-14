@@ -11,4 +11,5 @@ References
   (This is outdated and uses an older API, but helps to set up serverless)
 - https://developers.google.com/actions/build/json/dialogflow-webhook-json
 - https://dialogflow.com/docs/tutorial-build-an-agent/create-fulfillment-using-webhook
+- https://developers.google.com/actions/reference/nodejsv2/overview
 
