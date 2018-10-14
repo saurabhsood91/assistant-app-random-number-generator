@@ -1,0 +1,23 @@
+{
+  "name": "random-number-generator",
+  "version": "1.0.0",
+  "description": "A Random number generator google assistant app",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/actions-on-google": "^1.10.2",
+    "@types/aws-lambda": "^8.10.13",
+    "serverless-offline": "^3.27.0",
+    "serverless-plugin-typescript": "^1.1.5"
+  },
+  "dependencies": {
+    "actions-on-google": "^2.4.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "serverless-http": "^1.6.0"
+  }
+}
